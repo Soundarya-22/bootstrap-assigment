@@ -1,0 +1,21 @@
+h1{
+    
+    text-align: center;
+}
+.container{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkN2RHaQe8fWQ-_6QWY0dm_6sdR5lRgGu73w&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    margin-top: 50px;
+    padding: 10px;
+    font-style: bold;
+    font-size: 20px;
+    
+
+    
+} 
+button{
+    width: 100%;
+    padding: 10px;
+}  
